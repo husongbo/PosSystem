@@ -28,7 +28,7 @@
     "vue-particles": "^1.0.9",
     "vue-router": "2.5.3",
     "vuex": "^3.0.1",
-    "xlsx": "^0.15.1"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "address": "^1.0.3",
